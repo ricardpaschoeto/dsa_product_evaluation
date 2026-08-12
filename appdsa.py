@@ -32,7 +32,7 @@ if st.sidebar.button("Suporte"):
     st.sidebar.write("Dúvidas? Envie um e-mail para: suporte@datascienceacademy.com.br")
 
 # Título centralizado
-st.title("Data Science Academy - Controle de Qualidade")
+st.title("Data Science Academy - Controle de Qualidade Melhorado")
 st.title("Previsão de Qualidade do Produto")
 
 # Campos para entrada dos dados
