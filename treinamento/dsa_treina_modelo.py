@@ -58,4 +58,4 @@ if os.path.exists(arquivo_final):
 
 # Salvar o modelo ajustado sempre com o mesmo nome
 joblib.dump(model, arquivo_final)
-print(f"Modelo salvo como: {arquivo_final}")
+print(f"Modelo atual salvo como: {arquivo_final}")
